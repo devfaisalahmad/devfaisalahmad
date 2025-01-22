@@ -7,6 +7,8 @@ I'm a Front End Web developer who is passionate about making error-free websites
 
 Skills: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, ReactJS, NextJS.
 
+CMS Skills: Webflow, Wordpress, Shopify.
+
 - 🔭 I’m currently working on WordPress & Webflow 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Github 
